@@ -1,0 +1,23 @@
+export const ADD_SCORE = "ADD_SCORE";
+export const ADD_USER = "ADD_USER";
+export const GET_USERS = "GET_USERS";
+export const UP_USER = "UP_USER";
+export const DEL_USER = "DEL_USER";
+export const ADD_EVENT = "ADD_EVENT";
+export const ADD_REPAS = "ADD_REPAS";
+export const ADD_NOTIF = "ADD_NOTIF";
+export const GET_NOTIF = "GET_NOTIF";
+export const ITEMS_LOADING = "ITEMS_LOADING";
+export const GET_ERRORS = "GET_ERRORS";
+export const SET_CURRENT_USER = "SET_CURRENT_USER";
+export const GET_EVENTS = "GET_EVENTS";
+export const UP_EVENTS = "UP_EVENTS";
+export const DEL_EVENT = "DEL_EVENT";
+export const GET_REPAS = "GET_REPAS";
+export const UP_REPAS = "UP_REPAS";
+export const DEL_REPAS = "DEL_REPAS";
+export const setItemsLoading = "setItemsLoading";
+export const UP_NOTIF = "UP_NOTIF";
+export const DEL_NOTIF = "DEL_NOTIF";
+
+export const GET_SCORE = "GET_SCORE";
